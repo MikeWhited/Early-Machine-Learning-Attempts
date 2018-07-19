@@ -1,6 +1,6 @@
 # All of the comments for the analysis are in a PDF that was downloaded from CoCalc.com
 # That is a cloud website I do a lot of my work on because it is a R Markdown file with a nice UI
-# Not taking credit for this, this was scripted during a tutrial I was following. 
+# Not taking credit for all of this, this was scripted during a tutrial I was following. 
 
 
 Training <- read.csv("Downloads/train.csv")
